@@ -35,13 +35,13 @@ Faça um Programa que mostre a mensagem "Alo mundo" na tela
 #### [Exercício 2](./desafio2.py)
 Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 
-#### [Exercício 3]()
+#### [Exercício 3](./desafio3.py)
 Faça um Programa que peça dois números e imprima a soma.
 
-#### [Exercício 4]()
+#### [Exercício 4](./desafio4.py)
 Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
-#### [Exercício 5]()
+#### [Exercício 5](./desafio5.py)
 Faça um Programa que converta metros para centímetros.
 
 #### [Exercício 6]()
